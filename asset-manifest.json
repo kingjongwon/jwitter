@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jwitter/static/css/main.5e64d60d.chunk.css",
+    "main.js": "/jwitter/static/js/main.451bcf31.chunk.js",
+    "main.js.map": "/jwitter/static/js/main.451bcf31.chunk.js.map",
+    "runtime-main.js": "/jwitter/static/js/runtime-main.eaedc68b.js",
+    "runtime-main.js.map": "/jwitter/static/js/runtime-main.eaedc68b.js.map",
+    "static/js/2.0681ac2a.chunk.js": "/jwitter/static/js/2.0681ac2a.chunk.js",
+    "static/js/2.0681ac2a.chunk.js.map": "/jwitter/static/js/2.0681ac2a.chunk.js.map",
+    "index.html": "/jwitter/index.html",
+    "static/css/main.5e64d60d.chunk.css.map": "/jwitter/static/css/main.5e64d60d.chunk.css.map",
+    "static/js/2.0681ac2a.chunk.js.LICENSE.txt": "/jwitter/static/js/2.0681ac2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaedc68b.js",
+    "static/js/2.0681ac2a.chunk.js",
+    "static/css/main.5e64d60d.chunk.css",
+    "static/js/main.451bcf31.chunk.js"
+  ]
+}
